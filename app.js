@@ -106,28 +106,28 @@ document.getElementById("data").innerHTML = `
 <br><br>
 <h1><u>SAMSUNG</u></h1>
 <br><br>
- <tr>
+ <tr class="animate__animated animate__backInDown">
 <th>S.No</th>
 <th>Product Name</th>
 <th>Product Price</th>
 <th>Product Qty.</th>
 <th>Product Sale</th>
     </tr>
-  <tr>
+  <tr class="animate__animated animate__backInDown">
 <td>1</td>
 <td>${samsung[0].samPro1}</td>
 <td>${samsung[0].samPro1Pri}</td>
 <td>${samsung[0].samPro1Qty}</td>
 <td>${samPro1Sale}</td>
     </tr>  
-<tr>
+<tr class="animate__animated animate__backInDown">
 <td>2</td>
 <td>${samsung[1].samPro2}</td>
 <td>${samsung[1].samPro2Pri}</td>
 <td>${samsung[1].samPro2Qty}</td>
 <td>${samPro2Sale}</td>
-    </tr>  
-    <tr>
+    </tr >  
+    <tr class="animate__animated animate__backInDown">
 <td>3</td>
 <td>${samsung[2].samPro3}</td>
 <td>${samsung[2].samPro3Pri}</td>
@@ -148,28 +148,28 @@ document.getElementById("data").innerHTML = `
 <br><br>
 <h1><u>VIVO</u></h1>
 <br><br>
- <tr>
+ <tr class="animate__animated animate__backInDown">
 <th>S.No</th>
 <th>Product Name</th>
 <th>Product Price</th>
 <th>Product Qty.</th>
 <th>Product Sale</th>
     </tr>
-  <tr>
+  <tr class="animate__animated animate__backInDown">
 <td>1</td>
 <td>${vivo[0].vivoPro1}</td>
 <td>${vivo[0].vivoPro1Pri}</td>
 <td>${vivo[0].vivoPro1Qty}</td>
 <td>${vivoPro1Sale}</td>
     </tr>  
-<tr>
+<tr class="animate__animated animate__backInDown">
 <td>2</td>
 <td>${vivo[1].vivoPro2}</td>
 <td>${vivo[1].vivoPro2Pri}</td>
 <td>${vivo[1].vivoPro2Qty}</td>
 <td>${vivoPro2Sale}</td>
     </tr>  
-    <tr>
+    <tr class="animate__animated animate__backInDown">
 <td>3</td>
 <td>${vivo[2].vivoPro3}</td>
 <td>${vivo[2].vivoPro3Pri}</td>
@@ -190,28 +190,28 @@ document.getElementById("data").innerHTML = `
 <br><br>
 <h1><u>OPPO</u></h1>
 <br><br>
-<tr>
+<tr class="animate__animated animate__backInDown">
 <th>S.No</th>
 <th>Product Name</th>
 <th>Product Price</th>
 <th>Product Qty.</th>
 <th>Product Sale</th>
     </tr>
-  <tr>
+  <tr class="animate__animated animate__backInDown">
 <td>1</td>
 <td>${oppo[0].oppoPro1}</td>
 <td>${oppo[0].oppoPro1Pri}</td>
 <td>${oppo[0].oppoPro1Qty}</td>
 <td>${oppoPro1Sale}</td>
     </tr>  
-<tr>
+<tr class="animate__animated animate__backInDown">
 <td>2</td>
 <td>${oppo[1].oppoPro2}</td>
 <td>${oppo[1].oppoPro2Pri}</td>
 <td>${oppo[1].oppoPro2Qty}</td>
 <td>${oppoPro2Sale}</td>
     </tr>  
-    <tr>
+    <tr class="animate__animated animate__backInDown">
 <td>3</td>
 <td>${oppo[2].oppoPro3}</td>
 <td>${oppo[2].oppoPro3Pri}</td>
@@ -231,28 +231,28 @@ document.getElementById("data").innerHTML = `
 <br><br>
 <h1><u>TECNO</u></h1>
 <br><br> 
-<tr>
+<tr class="animate__animated animate__backInDown">
 <th>S.No</th>
 <th>Product Name</th>
 <th>Product Price</th>
 <th>Product Qty.</th>
 <th>Product Sale</th>
     </tr>
-  <tr>
+  <tr class="animate__animated animate__backInDown">
 <td>1</td>
 <td>${tecno[0].tecnoPro1}</td>
 <td>${tecno[0].tecnoPro1Pri}</td>
 <td>${tecno[0].tecnoPro1Qty}</td>
 <td>${tecnoPro1Sale}</td>
     </tr>  
-<tr>
+<tr class="animate__animated animate__backInDown">
 <td>2</td>
 <td>${tecno[1].tecnoPro2}</td>
 <td>${tecno[1].tecnoPro2Pri}</td>
 <td>${tecno[1].tecnoPro2Qty}</td>
 <td>${tecnoPro2Sale}</td>
     </tr>  
-    <tr>
+    <tr class="animate__animated animate__backInDown">
 <td>3</td>
 <td>${tecno[2].tecnoPro3}</td>
 <td>${tecno[2].tecnoPro3Pri}</td>
